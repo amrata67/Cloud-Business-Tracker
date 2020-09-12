@@ -1,5 +1,10 @@
 # Cloud-Business-Tracker
 
+A web and android application that stores the transactions of a small-scale or large-scale business organization onto an AWS
+cloud and computes transaction statistics and analytics, which can be accessed by the owner via smart-phones.
+
+The billing system provided owners insightful analysis of transactions done at each store of their organization.
+
 -------------------------------------------------
 ## Readme for CbizTracker
 -------------------------------------------------- 
